@@ -29,3 +29,4 @@ A simple web app to add, complete, and delete daily tasks.
 Learned DOM manipulation, event handling, and state updates using vanilla JavaScript.
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/fb77ef9f-f5c1-4c0a-b50b-e19380c49881)
