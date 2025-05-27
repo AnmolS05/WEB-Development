@@ -41,8 +41,10 @@ https://github.com/AnmolS05
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/423f9689-3460-4cbd-b438-c5a8142c1d68)
-![image](https://github.com/user-attachments/assets/1fe32e59-315e-4a05-8f00-b8a6d7a88c1e)
+![Screenshot 2025-05-26 110648](https://github.com/user-attachments/assets/61d0c854-b207-4fa8-9d8c-e7ff08a9befc)
+
+![Screenshot 2025-05-26 110729](https://github.com/user-attachments/assets/e236e595-b502-43c9-8ddb-87c5d80b7ab5)
+
 
 
 
