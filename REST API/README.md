@@ -46,7 +46,7 @@
   "title": "Rich Dad Poor Dad",
   "author": "Robert Kiyosaki"
 }
-
+```
 ---
 
 ## ✅ Task Outcome
@@ -67,3 +67,7 @@ GitHub: AnmolS05
 LinkedIn: anmol-s-poojary
 
 ## 📸 Screenshots
+![Screenshot 2025-05-29 122732](https://github.com/user-attachments/assets/32e59509-f73e-4fc0-8955-e44c7d5de2d9)
+![Screenshot 2025-05-29 123014](https://github.com/user-attachments/assets/48e985d9-bf35-40ef-bfd2-8a265e91c2c3)
+
+
