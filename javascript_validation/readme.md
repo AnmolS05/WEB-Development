@@ -40,8 +40,8 @@ https://github.com/AnmolS05/WEB-Development/tree/main/javascript_validation
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/contact-form-example-1.png)
-![image](https://github.com/user-attachments/assets/contact-form-example-2.png)
+![Screenshot 2025-06-03 102251](https://github.com/user-attachments/assets/b8f1af2b-4093-49ec-a6cb-9c986ddd5385)
+![Screenshot 2025-06-03 102251](https://github.com/user-attachments/assets/4df55cf8-ad63-4703-b5f6-8882b467046d)
 
 ---
 
