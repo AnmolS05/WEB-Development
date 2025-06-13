@@ -36,7 +36,8 @@
 
 ##  Screenshots
 
-*(Add screenshots of the blog layout here if required)*
+![image](https://github.com/user-attachments/assets/39f0f634-afbe-4428-b90c-1046bee2659e)
+
 
 ---
 
